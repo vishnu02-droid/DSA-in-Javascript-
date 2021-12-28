@@ -1,2 +1,2 @@
-# DSA-in-Javascript-
-Implemntation of Data Structures in Javascript language
+# DSA-in-Javascript
+Implementation of Data Structures in Javascript language
